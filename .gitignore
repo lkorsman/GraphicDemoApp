@@ -27,7 +27,6 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
@@ -41,5 +40,4 @@ Debug/
 *.idb
 *.pdb
 *.ilk
-*.exe
 *.log
